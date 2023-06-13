@@ -3,6 +3,6 @@
         "dia": "hoy",
         "temperatura": 16,
         "humedad" : 24,
-        "llueve": false
+        "lluvia": false
      }
 ]

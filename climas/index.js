@@ -1,5 +1,4 @@
-/* Trabajo de Camila*/
-//requerir leer y escribir json
+
 
 //mostrar los climas que tenemos guardados, funcion listar 
 
@@ -9,3 +8,10 @@
 //filtrar (por mes)
 
 //buscar(por dia)
+module.exports = {
+    //productos: leerJSON()
+     listar: require('./listar'),
+     ////buscar: require ('./buscar')
+     //editar: require ('./')
+    
+    };
